@@ -1,3 +1,3 @@
 # New project
 
-This is weather forecast web app.
+This is the weather forecast web app.
